@@ -83,7 +83,7 @@ footer a:link, footer a:visited {
 }
 
 .tm-bg-dark {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.849);
 }
 
 .tm-site-header-box {
@@ -137,8 +137,8 @@ footer a:link, footer a:visited {
   max-width: 575px;
 }
 .tm-section-1 {
-  margin-top: 70px;
-  max-width: 420px;
+  margin: 70px auto 0 auto;
+  width: 75%;
 }
 
 .tm-link:link,
@@ -364,7 +364,7 @@ figure.effect-goliath:hover p {
 /* Contact */
 .tm-section-3 {
   width: 100%;
-  max-width: 400px;
+  /* max-width: 400px; */
   margin-left: 40px;
   margin-right: auto;
   margin-top: -50px;
